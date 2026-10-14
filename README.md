@@ -10,4 +10,7 @@
 </p>
  <p align="center"> <a href="https://github.com/reflectivesea">𝗆ᧉ</a> <a href="https://mortenax.atabook.org">⍺𝗍⍺𝖻ⲟⲟ𝗄</a> 
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=316pnjduqmah2yqht27sesthoygq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+
+
 </p>
