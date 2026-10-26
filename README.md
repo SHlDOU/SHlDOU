@@ -11,10 +11,9 @@
 
 
 
-<sub>${{\color{#e18787}{\textsf{ (´｡• ◡ •｡`) }}}}$ <img src="message.gif" width="15px"></sub>
 
 <sub>***hi sign mi ata plez***</sub>
 
-|<sup>${{\color{#76415d}feel \space\space free \space\space to \space\space c+h \space\space anytime \space\space without \space\space needing \space\space to \space\space ask \space\space 4 \space\space it \space\space .♡}}$</sup>|
+|<sup>${{\color{#ADD8E6}wip}}$</sup>|
 |------------------------------|
 
