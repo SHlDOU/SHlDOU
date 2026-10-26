@@ -19,7 +19,7 @@
       <sup>
         <a href="https://mortenax.atabook.org/" style="color: #ADD8E6;">
           atabook
-           <a href="github.com/reflectivesea/" style="color: #ADD8E6;">
+           <a href="https://github.com/reflectivesea/" style="color: #ADD8E6;">
           me
         </a>
       </sup>
