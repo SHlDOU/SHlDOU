@@ -1,10 +1,10 @@
 <div align="center">
 
-<a href="https://i.postimg.cc/mZpp9MMG/Screenshot-2026-10-26-170126.pngs=20">
-<img src="cuteyesod.png" align="right" width="420px">
+<a href="makoto">
+<img src="https://i.postimg.cc/mZpp9MMG/Screenshot-2026-10-26-170126.png" align="right" width="420px">
 </a>
 
-<img src="killgeo.png" width="330px">
+<sub>${{\color{#ADD8E6}{\textsf{ dis is a wip }}}}$ <img src="message.gif" width="15px"></sub>
 
 &nbsp;
 
@@ -12,8 +12,8 @@
 
 
 
-<sub>***hi sign mi ata plez***</sub>
+<br><br><br><br><sub>***say hi to mi lcb oc, drawn by me :p***</sub>
 
-|<sup>${{\color{#ADD8E6}wip}}$</sup>|
+|<sup>${{\color{#ADD8E6}<a href="[https://example.com](https://mortenax.atabook.org/)">atabook</a>}}$</sup>|
 |------------------------------|
 
