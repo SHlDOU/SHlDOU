@@ -1,15 +1,20 @@
 <div align="center">
 
-  <br>
+<a href="https://i.postimg.cc/mZpp9MMG/Screenshot-2026-10-26-170126.pngs=20">
+<img src="cuteyesod.png" align="right" width="420px">
+</a>
+
+<img src="killgeo.png" width="330px">
+
+&nbsp;
 
 
 
- <p align="center">
-<p align="center">
 
- <p align="center"> <a href="https://github.com/reflectivesea">𝗆ᧉ</a> <a href="https://mortenax.atabook.org">⍺𝗍⍺𝖻ⲟⲟ𝗄</a> <br>
+<sub>${{\color{#e18787}{\textsf{ (´｡• ◡ •｡`) }}}}$ <img src="message.gif" width="15px"></sub>
 
-<img src="https://i.pinimg.com/736x/03/ae/f3/03aef3a79173ae82f20ac21de6cbcae5.jpg">
+<sub>***hi sign mi ata plez***</sub>
 
+|<sup>${{\color{#76415d}feel \space\space free \space\space to \space\space c+h \space\space anytime \space\space without \space\space needing \space\space to \space\space ask \space\space 4 \space\space it \space\space .♡}}$</sup>|
+|------------------------------|
 
-</p>
